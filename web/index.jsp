@@ -9,6 +9,7 @@
 <html>
   <head>
     <title>PersonalizedRecommendationSystem</title>
+    <meta http-equiv="Refresh" content="3;URL=/PersonalizedRecommendation/html/index.html">
   </head>
   <body>
   <h1>这是一个根据用户的选择，进行个性化推荐的系统！</h1>
