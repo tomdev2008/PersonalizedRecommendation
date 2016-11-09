@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="PersonalizedRecommendation:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PersonalizedRecommendation_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PersonalizedRecommendation/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PersonalizedRecommendation" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
